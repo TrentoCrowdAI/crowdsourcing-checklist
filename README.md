@@ -9,7 +9,7 @@ This repository contains the checklist proposed in the paper:
 
 
 
-The checklist can be downloaded from [here](/checklist.pdf)
+The checklist can be downloaded from [here](/checklist.pdf?raw=true)
 
 
 ## Collaboration
