@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<h1 align="center">On the state of reporting in crowdsourcing experiments and a checklist to aid current practices</h1>
 
-You can use the [editor on GitHub](https://github.com/TrentoCrowdAI/crowdsourcing-checklist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<a href="https://jramirez.me/" target="_blank">Jorge Ramírez</a>+, 
+Burcu Sayin, 
+<a href="http://disi.unitn.it/~baez/" target="_blank">Marcos Baez</a>^, 
+Fabio Casati+, Luca Cernuzzi◦, 
+<a href="https://sites.google.com/site/boualembenatallahwebsite/" target="_blank">Boualem Benatallah</a>△, 
+<a href="https://www.gianlucademartini.net/" target="_blank"> Gianluca Demartini</a>‡.
+</p>
+<p align="center">
++ University of Trento, Italy. ^ Université Claude Bernard Lyon 1, France. ◦ Catholic University, Paraguay. 
+<br> △ University of New South Wales, Australia. ‡University of Queensland, Australia.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrentoCrowdAI/crowdsourcing-checklist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="justify">Crowdsourcing is being increasingly adopted as a platform to run studies with human subjects. Running a crowdsourcing experiment involves several choices and strategies to successfully port an experimental design into an otherwise uncontrolled research environment, e.g., sampling crowd workers, mapping experimental conditions to micro-tasks, or ensure quality contributions. While several guidelines inform researchers in these choices, guidance of how and what to report from crowdsourcing experiments has been largely overlooked. If under-reported, implementation choices constitute variability sources that can affect the experiment's reproducibility and prevent a fair assessment of research outcomes. In this paper, we examine the current state of reporting of crowdsourcing experiments and offer guidance to address associated reporting issues. We start by identifying sensible implementation choices, relying on existing literature and interviews with experts, to then extensively analyze the reporting of 171 crowdsourcing experiments. Informed by this process, we propose a checklist for reporting crowdsourcing experiments.
+</p>
