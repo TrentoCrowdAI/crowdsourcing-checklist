@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://jramirez.me/" target="_blank">Jorge Ramírez</a>+, 
-Burcu Sayin, 
+Burcu Sayin+, 
 <a href="http://disi.unitn.it/~baez/" target="_blank">Marcos Baez</a>^, 
 Fabio Casati+, Luca Cernuzzi◦, 
 <a href="https://sites.google.com/site/boualembenatallahwebsite/" target="_blank">Boualem Benatallah</a>△, 
