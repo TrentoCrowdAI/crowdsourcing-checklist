@@ -7,9 +7,9 @@ In this website, we introduce a checklist to aid authors in being thorough and s
 
 Please refer to the following paper for more details of our work.
 
-<h2 align="left">On the state of reporting in crowdsourcing experiments and a checklist to aid current practices</h2>
+<h3 align="center">On the state of reporting in crowdsourcing experiments and a checklist to aid current practices</h3>
 
-<p align="justify">
+<p align="center">
 <a href="https://jramirez.me/" target="_blank">Jorge Ramírez</a>+, 
 Burcu Sayin+, 
 <a href="http://disi.unitn.it/~baez/" target="_blank">Marcos Baez</a>^, 
