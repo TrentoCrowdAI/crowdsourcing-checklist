@@ -43,7 +43,7 @@ Fill free to reach out via [GitHub issues](https://github.com/TrentoCrowdAI/crow
                Boualem Benatallah and
                Gianluca Demartini},
   title     = {On the state of reporting in crowdsourcing experiments and a checklist to aid current practices},
-  booktitle = {the 24th {ACM} Conference on Computer Supported
+  booktitle = {Proceedings of the 24th {ACM} Conference on Computer Supported
                Cooperative Work and Social Computing, {CSCW} 2021},
   year      = {2021}
 }
