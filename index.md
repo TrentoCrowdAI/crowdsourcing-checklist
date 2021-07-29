@@ -6,7 +6,7 @@ Please refer to the following [paper](https://arxiv.org/abs/2107.13519) for more
 
 <br>
 <br>
-<h2 align="center">On the state of reporting in crowdsourcing experiments and a checklist to aid current practices</h1>
+<h2 align="center">On the state of reporting in crowdsourcing experiments and a checklist to aid current practices</h2>
 
 <p align="center">
 <a href="https://jramirez.me/" target="_blank">Jorge Ramírez</a>+, 
