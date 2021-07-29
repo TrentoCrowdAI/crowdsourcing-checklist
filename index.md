@@ -1,6 +1,8 @@
 <h1 align="center">Checklist for reporting crowdsourcing experiments</h1>
 
-In this website, we introduce a checklist to aid authors in being thorough and systematic when describing the design and operationalization of their crowdsourcing experiments. The checklist also aims to help readers navigate and understand the underlying details behind crowdsourcing studies. By providing a checklist and depicting where the research community stands in terms of reporting practices, we expect our work to stimulate additional efforts to move the transparency agenda forward, facilitating a better assessment of the validity and reproducibility of experiments in crowdsourcing research.
+<p align="justify">
+  In this website, we introduce a checklist to aid authors in being thorough and systematic when describing the design and operationalization of their crowdsourcing experiments. The checklist also aims to help readers navigate and understand the underlying details behind crowdsourcing studies. By providing a checklist and depicting where the research community stands in terms of reporting practices, we expect our work to stimulate additional efforts to move the transparency agenda forward, facilitating a better assessment of the validity and reproducibility of experiments in crowdsourcing research.
+</p>
 
 
 # Paper
